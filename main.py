@@ -9,7 +9,7 @@ def main():
     ########################################
     Code Your Program here
     """
-    for number i numbers:
+    for number in numbers:
     
     
     
