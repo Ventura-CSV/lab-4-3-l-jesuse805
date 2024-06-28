@@ -10,7 +10,7 @@ def main():
     Code Your Program here
     """
     for number in numbers:
-        total = numbe
+        total += number
     
     """
     ########################################
