@@ -12,7 +12,7 @@ def main():
     for number in numbers:
     
     
-    
+    print(total)
     """
     ########################################
     """
